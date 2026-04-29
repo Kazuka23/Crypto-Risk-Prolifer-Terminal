@@ -1,1 +1,1 @@
-# crypto-risk-prolifer-terminal
+# Crypto-Risk-Prolifer-Terminal
